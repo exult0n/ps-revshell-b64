@@ -3,7 +3,7 @@ A quick command line utilty to generate a Base64 encoded PowerShell reverse shel
 
 # Installation
 ```
-wget https://raw.githubusercontent.com/exult0n/ps-revshell-b64/main/ps-revshell-b64.py && chmod +x 
+wget https://raw.githubusercontent.com/exult0n/ps-revshell-b64/main/ps-revshell-b64.py && chmod +x ./ps-revshell-b64.py 
 ```
 
 # Usage
